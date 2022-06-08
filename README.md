@@ -95,5 +95,5 @@
 <br>
 <h3>Trophies :-</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-               src="https://github-profile-trophy.vercel.app/?username=ShanuDey&bg_color=0d1117&text_color=ffffff"
+               src="https://github-profile-trophy.vercel.app/?username=ShanuDey&bg_color=0d1117&text_color=ffffff&rank=AA,AAA,S,SS,SSS,SECRET"
                alt="ShanuDey" /></a> </p>
