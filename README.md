@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **sd4shanudey@gmail.com**
 
-- ⚡ Fun fact :- Gaming🎮 and Programming 👨‍💻 are the reasons to live.
+- ⚡ Fun fact :- Leanrning and Programming 👨‍💻 are the reasons to live.
 
 <br>
 
